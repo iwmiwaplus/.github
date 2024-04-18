@@ -1,5 +1,4 @@
-div align = "center">
-
+<div align = "center">
 # International Water Management Institute - Water Accounting plus on GitHub
 
 </div>
