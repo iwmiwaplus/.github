@@ -8,6 +8,6 @@
 
 <div align="center"> 
 
-[![Alt text](https://i.imgur.com/Mil23ly.jpg))](https://www.iwmi.cgiar.org)
+[![Alt text](/profile/Figures/iwmi.jpg)](https://www.iwmi.cgiar.org)
 
 </div>
