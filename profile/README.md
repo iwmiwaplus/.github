@@ -34,7 +34,7 @@
 
 <div align= "center">
 
-<p style=" font-family: 'Times New Roman', Times, serif; ">Figure 01 : Water Accounting Framework</p>
+<p style=" font-family: 'Times New Roman', Times, serif; ">Figure 01 : Water Accounting plus Framework</p>
 
 </div>
 
