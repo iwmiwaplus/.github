@@ -32,11 +32,11 @@
 
 ## GitHub for Water Accounting 
 
-<div>
+<!-- <div>
 
 - The Water Accounting GitHub provides codes and description of the frameworks used for estimating water accounts. The Python codes to various WA frameworks are organized under different repositories.
 
-</div>
+</div> -->
 
 <ul style="list-style-type: none; margin-left: 0.75in;">
   <li style="margin-left: 1in;">The Water Accounting GitHub provides codes and description of the frameworks used for estimating water accounts. The Python codes to various WA frameworks are organized under different repositories.</li>
