@@ -3,8 +3,11 @@
 # International Water Management Institute - Water Accounting plus on GitHub
 
 </div>
+<p style="margin-left: 0.5in; font-family:"><a href="https://www.iwmi.cgiar.org/">IWMI</a> is an international, research-for-development organization, with offices in 15 countries and a global network of scientists operating in more than 55 countries. For over three decades, our research results have led to changes in water management that have contributed to social and economic development.</p>
 
-<p> <a href="https://www.iwmi.cgiar.org/">International Water Management Institute (IWMI)</a> works with governments, farmers, water managers, development partners and businesses to solve water problems and scale up solutions. Together with our partners, we combine research with data to build and enhance knowledge, information services and products, strengthen capacity, convene dialogue, and deliver actionable policy analysis to support the implementation of solutions for water management. IWMI is a Research Center of the <a href="https://www.cgiar.org/">CGIAR</a>, the global research partnership for a food-secure future.</p>
+
+<p style="margin-left: 0.5in;">	<a href="https://www.iwmi.cgiar.org/">IWMI</a>’s vision is a water-secure world. <a href="https://www.iwmi.cgiar.org/">IWMI</a> targets water and land management challenges faced by poor communities in developing countries, and through this contributes towards the achievement of the Sustainable Development Goals (SDGs) of reducing poverty and hunger and maintaining a sustainable environment.</p>
+
 
 <div align="center"> 
 
