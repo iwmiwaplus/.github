@@ -28,7 +28,7 @@
 
 <div align= "center" >
 
-![IWMI logo](/profile/Figures/WAplus_framework.png)
+![WA+ Framework](/profile/Figures/WAplus_framework.png)
 
 </div>
 
