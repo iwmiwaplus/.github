@@ -20,11 +20,15 @@
 
 ## IWMI Water Accounting 
 
-<p style="margin-left: 0.5in; font-family: 'Times New Roman', Times, serif; ">Water Accounting team at IWMI conducts water accounting assessments for river basins across Asia and Africa. Water accounting is the systematic study of the current status and trends in water supply, demand, accessibility and use. Water accounting provides the foundation of sound water management decisions.</p>
+<div>
 
-<p style="margin-left: 0.5in; font-family: 'Times New Roman', Times, serif; ">The IWMI Water Accounting Plus (WA+) uses earth observation data and modeling approaches to provide a basic understanding of a basin’s water accounts and establish a baseline. Through an open source framwork, the WA+ framework relies largely on remote sensing imagery, making it a feasible tool for data scarce basins and a reliable source for transboundary waters. The WA+ produces organized results for summarizing basin water resources (Resource Base sheet) and water uses (Evapotranspiration sheet). The WA+ outputs can be used to ignite well-informed, transparent discussions on water resource issues.</p>
+<p style="margin-left: 0.5in; font-family: 'Times New Roman', Times, serif; ">Water Accounting team at <a href="https://www.iwmi.cgiar.org/">IWMI</a> conducts water accounting assessments for river basins across Asia and Africa. Water accounting is the systematic study of the current status and trends in water supply, demand, accessibility and use. Water accounting provides the foundation of sound water management decisions.</p>
+
+<p style="margin-left: 0.5in; font-family: 'Times New Roman', Times, serif; ">The <a href="https://www.iwmi.cgiar.org/">IWMI</a> Water Accounting Plus (WA+) uses earth observation data and modeling approaches to provide a basic understanding of a basin’s water accounts and establish a baseline. Through an open source framwork, the WA+ framework relies largely on remote sensing imagery, making it a feasible tool for data scarce basins and a reliable source for transboundary waters. The WA+ produces organized results for summarizing basin water resources (Resource Base sheet) and water uses (Evapotranspiration sheet). The WA+ outputs can be used to ignite well-informed, transparent discussions on water resource issues.</p>
 
 <p style="margin-left: 0.5in; font-family: 'Times New Roman', Times, serif; ">The Scale-Invariant Water Accounting Plus (SIWA+) frameworks is built on WA+ to estimate water accounts for any give boundary or region. The SIWA+ framework runs the raster based per pixel water balance for the continental Africa and then estimates water accounts for any given boundary. Conventionally, inputs such as inflows and outflows (outlet discharge) are required which are specific to the river basin boundary. However, inflows and outflows for any given boundary are extracted by new modules within the SIWA+ such as boundary data extractor (BDE), outlet discharge extractor, desalination data extractor (DDE). These modules together with WA+ framework enable preparing the data required to generate water accounts for any given boundary (continent, country, catchment or a county).</p>
+
+</div>
 
 
 
