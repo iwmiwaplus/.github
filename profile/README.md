@@ -56,7 +56,4 @@
   <li style="margin-left: 1in;">The Water Accounting GitHub provides codes and description of the frameworks used for estimating water accounts. The Python codes to various WA frameworks are organized under different repositories.</li>
 </ul> -->
 
-This is <i><b>a</b> test</i> of the
-<font color="red"><i>Emergency <u>Broadcast</u> System</i></font>
-
 <!-- Description -->
