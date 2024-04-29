@@ -57,6 +57,6 @@
 </ul> -->
 
 This is <i><b>a</b> test</i> of the
-<font color="#FF0000"><i>Emergency <u>Broadcast</u> System</i></font>
+<font color="red"><i>Emergency <u>Broadcast</u> System</i></font>
 
 <!-- Description -->
