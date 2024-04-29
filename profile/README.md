@@ -26,9 +26,15 @@
 
 <p style="margin-left: 0.5in; font-family: 'Times New Roman', Times, serif; ">The <a href="https://www.iwmi.cgiar.org/">IWMI</a> Water Accounting Plus (WA+) uses earth observation data and modeling approaches to provide a basic understanding of a basin’s water accounts and establish a baseline. Through an open source framwork, the WA+ framework relies largely on remote sensing imagery, making it a feasible tool for data scarce basins and a reliable source for transboundary waters. The WA+ produces organized results for summarizing basin water resources (Resource Base sheet) and water uses (Evapotranspiration sheet). The WA+ outputs can be used to ignite well-informed, transparent discussions on water resource issues.</p>
 
-<div align= "center">
+<div align= "center" >
 
 ![IWMI logo](/profile/Figures/WAplus_framework.png)
+
+</div>
+
+<div align= "center">
+
+<p style=" font-family: 'Times New Roman', Times, serif; ">Figure 01 : Water Accounting Framework</p>
 
 </div>
 
@@ -38,15 +44,15 @@
 
 ## GitHub for Water Accounting 
 
-<!-- <div>
+<div>
 
 - The Water Accounting GitHub provides codes and description of the frameworks used for estimating water accounts. The Python codes to various WA frameworks are organized under different repositories.
 
-</div> -->
+</div>
 
-<ul style="list-style-type: none; margin-left: 0.75in;">
+<!-- <ul style="list-style-type: none; margin-left: 0.75in;">
   <li style="margin-left: 1in;">The Water Accounting GitHub provides codes and description of the frameworks used for estimating water accounts. The Python codes to various WA frameworks are organized under different repositories.</li>
-</ul>
+</ul> -->
 
 
 
